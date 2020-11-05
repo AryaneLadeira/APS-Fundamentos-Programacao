@@ -1,0 +1,13 @@
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\bin\Debug\netcoreapp3.1\C#.exe
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\bin\Debug\netcoreapp3.1\C#.dll
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\bin\Debug\netcoreapp3.1\C#.pdb
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.dll
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.pdb
+C:\Users\Suneatter\Desktop\FACULDADE\APS\1 BIMESTRE\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
